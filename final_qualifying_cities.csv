@@ -1,0 +1,310 @@
+FID,CITY_NAME,GMI_ADMIN,ADMIN_NAME,FIPS_CNTRY,CNTRY_NAME,STATUS,POP,POP_RANK,POP_CLASS,POP_SOURCE,X,Y,pop_1,year,capital,rank,threshold,dist_km,type
+"2029",Warsaw,POL-WRS,Warszawa,PL,Poland,National and provincial capital,"1766212","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"2339031.489","6844536.595","1,861,599","2023","1","7","5",433.60,inland
+"2011",Gdansk,POL-GDN,Gdansk,PL,Poland,Provincial capital,"464834","4","250,000 to 499,999",UN_Data_2010_2020,"2073325.109","7239779.893","487,371","2023","0","2","30",16.01,coast
+"2129",Chisinau,MDA,Moldova,MD,Moldova,National capital,"0","0",,,"3209340.617","5942073.758","532,513","2014","1","1","40",222.20,inland
+"1628",Praia,CPV,Cape Verde,CV,Cape Verde,National capital,"0","0",,,"-2618345.249","1680327.654","137,868","2021","1","2","30",0.00,coast
+"1658",Madrid,ESP-MDR,Madrid,SP,Spain,National and provincial capital,"3244730","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"-410877.09","4930414.133","3,340,176","2023","1","2","30",413.10,inland
+"1632",Valencia,ESP-VLN,Valenciana,SP,Spain,Provincial capital,"792850","3","500,000 to 999,999",UN_Data_2010_2020,"-40854.42639","4789365.029","804,121","2023","0","1","40",17.17,coast
+"297",Willemstad,ANT,Netherlands Antilles,NT,Netherlands Antilles,National and provincial capital,"0","0",,,"-7677767.021","1361507.23","2,280","2021","1","2","30",0.00,coast
+"1506",Wellington,NZL-WLL,Wellington,NZ,New Zealand,National and provincial capital,"216300","5","100,000 to 249,999",UN_Data_2010_2020,"19459450.32","-5061856.656","212,000","2022","1","2","30",0.14,coast
+"2532",Hamilton,NZL-WAK,Waikato,NZ,New Zealand,Provincial capital,"169300","5","100,000 to 249,999",UN_Data_2010_2020,"19511300.37","-4547829.847","179,900","2022","0","2","30",60.87,inland
+"20",Alofi,NIU,Niue,NE,Niue,National and provincial capital,"639","7","Less than 50,000",UN_Data_2010_2020,"-18915037.13","-2156898.276","606","2022","1","7","5",0.00,coast
+"407",Port-au-Prince,HTI-OUE,Ouest,HA,Haiti,National and provincial capital,"2874000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"-8053197.793","2099281.241","875,978","2009","1","1","40",13.45,coast
+"405",Hinche,HTI-CNT,Centre,HA,Haiti,Provincial capital,"0","0",,,"-8015448.136","2171779.106","30,595","2009","0","2","30",65.52,inland
+"1458",Saipan,MNP,Northern Mariana Is.,CQ,Northern Mariana Is.,National and provincial capital,"3983","7","Less than 50,000",UN_Data_2010_2020,"16223146.25","1706492.84","43,385","2020","1","2","30",0.00,coast
+"2503",Canberra,AUS-ACT,Australian Capital Territory,AS,Australia,National and provincial capital,"420960","4","250,000 to 499,999",UN_Data_2010_2020,"16591280.37","-4211547.338","490,181","2021","1","2","30",149.70,inland
+"1509",Newcastle,AUS-NSW,New South Wales,AS,Australia,Other,"322278","4","250,000 to 499,999",UN_Data_2010_2020,"16896022.83","-3885745.501","348,539","2021","0","2","30",6.96,coast
+"704",Sofia,BGR-GSO,Grad Sofiya,BU,Bulgaria,National capital and provincial capital enclave,"1241675","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"2597291.932","5267520.674","1,196,806","2023","1","7","5",301.40,inland
+"712",Varna,BGR-VAR,Varna,BU,Bulgaria,Provincial capital,"336505","4","250,000 to 499,999",UN_Data_2010_2020,"3106593.298","5343380.361","314,607","2023","0","2","30",9.11,coast
+"1551",Charlotte Amalie,VIR,Virgin Is.,VQ,Virgin Is.,National and provincial capital,"0","0",,,"-7228345.753","2078556.511","8,194","2020","1","1","40",0.00,coast
+"484",Nassau,BHS,Bahamas,BF,The Bahamas,National capital,"266100","4","250,000 to 499,999",UN_Data_2010_2020,"-8609449.039","2883976.059","296,522","2022","1","2","30",0.00,coast
+"538",Yaounde,CMR-CNT,Centre,CM,Cameroon,National and provincial capital,"3420000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"1281732.324","430576.0691","1,817,524","2005","1","7","5",210.70,inland
+"508",Buea,CMR-SOU,Sud-Ouest,CM,Cameroon,Provincial capital,"0","0",,,"1027590.591","462938.7603","90,090","2005","0","1","40",37.23,coast
+"1258",Vientiane,LAO-VNG,Viangchan,LA,Laos,National and provincial capital,"1246000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"11430311.52","2037751.858","620,157","2015","1","1","40",354.30,inland
+"611",Skopje,MKD,Macedonia,MK,North Macedonia,National capital,"546824","3","500,000 to 999,999",UN_Data_2010_2020,"2385948.32","5158483.43","422,540","2021","1","2","30",214.30,inland
+"594",Valletta,MLT,Malta,MT,Malta,National capital,"5827","7","Less than 50,000",UN_Data_2010_2020,"1614578.389","4288656.492","5,157","2021","1","2","30",0.00,coast
+"1957",Brussels,BEL-BRS,Bruxelles-Brussel,BE,Belgium,National capital and provincial capital enclave,"1550299","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"486243.2507","6592512.099","196,828","2024","1","2","30",144.70,inland
+"1952",Bruges,BEL-WVL,West-Vlaanderen,BE,Belgium,Provincial capital,"117260","5","100,000 to 249,999",UN_Data_2010_2020,"358449.0252","6658524.694","119,869","2024","0","2","30",18.63,coast
+"2255",Doha,QAT-ADW,Ad Dawhah,QA,Qatar,National and provincial capital,"956457","3","500,000 to 999,999",UN_Data_2010_2020,"5736553.338","2910712.087","872,048","2020","1","1","40",8.05,coast
+"832",Baghdad,IRQ-BGH,Baghdad,IZ,Iraq,National and provincial capital,"7816000","1","5,000,000 and greater",UN_Habitat_2020,"4942362.69","3939721.53","6,719,476","2018","1","1","40",592.80,inland
+"2342",Brazzaville,COG-POO,Pool,CF,Congo,National capital,"2074000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"1701534.16","-477470.2863","2,138,236","2023","1","2","30",381.70,inland
+"85",Lima,PER-LIM,Lima,PE,Peru,National and provincial capital,"9562280","1","5,000,000 and greater",UN_Data_2010_2020,"-8576610.569","-1355041.496","11,166,200","2022","1","2","30",13.47,coast
+"14",Arequipa,PER-ARQ,Arequipa,PE,Peru,Provincial capital,"1080635","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"-7961903.892","-1850859.74","1,125,400","2022","0","7","5",96.09,inland
+"1040",Islamabad,PAK-PNJ,Punjab,PK,Pakistan,National capital,"1014825","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"8133062.369","3991020.02","1,108,872","2023","1","7","5",1297.00,inland
+"2297",Karachi,PAK-SIN,Sind,PK,Pakistan,Provincial capital,"14910352","1","5,000,000 and greater",UN_Data_2010_2020,"7461523.311","2862607.917","18,868,021","2023","0","2","30",9.39,coast
+"159",Jamestown,SHN,St. Helena,SH,St. Helena,National and provincial capital,"0","0",,,"-635077.769","-1795691.581","625","2021","1","7","5",0.00,coast
+"1752",Ouagadougou,BFA-KDG,Kadiogo,UV,Burkina Faso,National and provincial capital,"3662000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"-185903.9582","1400385.179","2,415,266","2019","1","2","30",798.80,inland
+"1453",Palikir,FSM,Micronesia,FM,Micronesia,National capital,"0","0",,,"17612603.18","777447.7895","6,647","2010","1","1","40",0.00,coast
+"2540",Nay Pyi Taw,,Nay Pyi Taw Union Territory,BM,Myanmar,National and provincial capital,"642000","3","500,000 to 999,999",UN_Data_2010_2020,"10709941.58","2241485.642","333,506","2014","1","2","30",273.20,inland
+"1182",Moulmein,MMR-MST,Mon State,BM,Myanmar,Provincial capital,"0","0",,,"10869795.28","1861849.024","253,734","2014","0","2","30",25.12,coast
+"42",Santiago,CHL-RMT,Region Metropolitana,CI,Chile,National and provincial capital,"6748000","1","5,000,000 and greater",UN_Habitat_2020,"-7864445.457","-3958526.403","6,143,444","2023","1","1","40",118.00,inland
+"36",Antofagasta,CHL-ANT,Antofagasta,CI,Chile,Provincial capital,"425725","4","250,000 to 499,999",UN_Data_2010_2020,"-7836780.682","-2709723.266","441,211","2023","0","2","30",0.75,coast
+"329",San Salvador,SLV-SSL,San Salvador,ES,El Salvador,National and provincial capital,"1910000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"-9929724.473","1539982.289","316,090","2007","1","2","30",28.50,coast
+"325",Santa Ana,SLV-SAN,Santa Ana,ES,El Salvador,Provincial capital,"272554","4","250,000 to 499,999",UN_Data_2010_2020,"-9968993.982","1573757.528","198,251","2007","0","2","30",57.41,inland
+"27",Stanley,FLK,Falkland Islands,FK,Falkland Is.,National and provincial capital,"2108","7","Less than 50,000",UN_Data_2010_2020,"-6439721.51","-6746242.657","2,634","2016","1","2","30",0.00,coast
+"915",Vaduz,LIE,Liechtenstein,LS,Liechtenstein,National capital,"5668","7","Less than 50,000",UN_Data_2010_2020,"1059873.025","5965446.458","5,747","2021","1","2","30",422.00,inland
+"1542",Port of Spain,TTO,Trinidad & Tobago,TD,Trinidad & Tobago,National capital,"37074","7","Less than 50,000",UN_Data_2010_2020,"-6845042.234","1191276.571","37,074","2011","1","2","30",18.02,coast
+"687",Athens,GRC-CGE,Central Greece and Evvoia,GR,Greece,National capital,"664046","3","500,000 to 999,999",UN_Data_2010_2020,"2633039.847","4571517.907","3,146,164","2021","1","2","30",23.58,coast
+"635",Patras,GRC-PLP,Peloponnisos,GR,Greece,Other,"167446","5","100,000 to 249,999",UN_Data_2010_2020,"2436024.043","4599396.838","196,937","2021","0","2","30",78.31,inland
+"2312",Harare,ZWE-MEA,Mashonaland East,ZI,Zimbabwe,National and provincial capital,"1485231","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"3453130.982","-2017659.785","1,491,754","2022","1","7","5",478.10,inland
+"1784",Monrovia,LBR-MNT,Montserrado,LI,Liberia,National capital,"0","0",,,"-1201916.841","702842.1308","1,021,762","2008","1","7","5",10.48,inland
+"1685",Robertsport,LBR-GCM,Grand Cape Mount,LI,Liberia,Provincial capital,"0","0",,,"-1265335.556","753150.7576","3,515","2008","0","2","30",2.67,coast
+"1997",Luxembourg,LUX-LXM,Luxembourg,LU,Luxembourg,National and provincial capital,"119215","5","100,000 to 249,999",UN_Data_2010_2020,"681275.329","6378663.095","134,697","2024","1","2","30",434.00,inland
+"450",Bogota,COL-DES,Distrito Especial,CO,Colombia,National capital and provincial capital enclave,"7181469","1","5,000,000 and greater",UN_Data_2010_2020,"-8246604.832","515995.7799","7,876,000","2023","1","1","40",350.20,inland
+"453",Cartagena,COL-BLV,Bolivar,CO,Colombia,Provincial capital,"887946","3","500,000 to 999,999",UN_Data_2010_2020,"-8408406.706","1165717.327","931,500","2023","0","1","40",0.00,coast
+"1293",Kuala Lumpur,MYS-KLL,Kuala Lumpur,MY,Malaysia,National and provincial capital,"1839451","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"11322082.92","350833.1677","1,588,750","2010","1","7","5",44.13,inland
+"1298",Johor Baharu,MYS-JOH,Johor,MY,Malaysia,Provincial capital,"518627","3","500,000 to 999,999",UN_Data_2010_2020,"11550510.52","166998.655","809,900","2010","0","1","40",27.83,coast
+"779",T'Bilisi,GEO-TBL,T'bilisi,GG,Georgia,National and provincial capital,"1113800","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"4985234.939","5119399.045","1,154,314","2020","1","7","5",344.70,inland
+"769",Bat'umi,GEO-AJR,Ajaria,GG,Georgia,Provincial capital,"155000","5","100,000 to 249,999",UN_Data_2010_2020,"4634600.577","5106210.573","169,095","2020","0","2","30",4.87,coast
+"1300",Singapore,SGP,Singapore,SN,Singapore,National capital,"5703569","1","5,000,000 and greater",UN_Data_2010_2020,"11558502.47","141259.9492","4,660","2024","1","2","30",1.46,coast
+"750",Beirut,LBN-BYR,Bayrut,LE,Lebanon,National and provincial capital,"2302000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"3951841.52","4013146.304","1,650,000","2017","1","7","5",2.87,coast
+"751",Zahle,LBN-ABI,Al Biqa',LE,Lebanon,Provincial capital,"0","0",,,"3998484.827","4007739.794","140,000","2017","0","2","30",46.21,inland
+"1602",Reykjavik,ISL-RYK,Reykjavik,IC,Iceland,National and provincial capital,"127417","5","100,000 to 249,999",UN_Data_2010_2020,"-2437340.43","9384128.756","239,733","2024","1","2","30",38.38,inland
+"1990",Bern,CHE-BER,Bern,SZ,Switzerland,National and provincial capital,"133883","5","100,000 to 249,999",UN_Data_2010_2020,"828884.6283","5933589.822","136,988","2023","1","2","30",441.50,inland
+"886",Addis Ababa,ETH-SHE,Shewa,ET,Ethiopia,National and provincial capital,"3881000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"4308064.337","1009402.086","3,860,000","2022","1","2","30",339.50,inland
+"276",Guatemala,GTM-GTM,Guatemala,GT,Guatemala,National and provincial capital,"1650000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"-10077185.52","1645215.773","923,392","2018","1","1","40",81.86,inland
+"271",Retalhuleu,GTM-RTL,Retalhuleu,GT,Guatemala,Provincial capital,"0","0",,,"-10205438.59","1635909.307","90,505","2018","0","1","40",37.89,coast
+"651",Nicosia,CYP-NIC,Nicosia,CY,Cyprus,National and provincial capital,"0","0",,,"3714620.466","4187143.856","56,479","2021","1","1","40",28.33,coast
+"1607",Dublin,IRL-LEN,Leinster,EI,Ireland,National and provincial capital,"544107","3","500,000 to 999,999",UN_Data_2010_2020,"-696564.8724","7046428.871","592,713","2022","1","1","40",19.98,coast
+"1610",Cork,IRL-MUN,Munster,EI,Ireland,Provincial capital,"124391","5","100,000 to 249,999",UN_Data_2010_2020,"-945213.3151","6781702.794","131,423","2022","0","2","30",32.46,inland
+"529",Bangui,CAF-OMP,Ombella-Mpoko,CT,Central African Republic,National and provincial capital,"0","0",,,"2066351.057","486475.7509","812,407","2021","1","1","40",986.50,inland
+"2526",Suva,FJI,Fiji,FJ,Fiji,National capital,"0","0",,,"19864709.92","-2053301.299","185,913","2017","1","2","30",4.49,coast
+"1705",Nouakchott,MRT-TRR,Trarza,MR,Mauritania,National capital,"958399","3","500,000 to 999,999",UN_Data_2010_2020,"-1778662.456","2047382.585","1,446,761","2013","1","7","5",18.95,inland
+"1698",Nouadhibou,MRT-DND,Dakhlet Nouadhibou,MR,Mauritania,Other,"118167","5","100,000 to 249,999",UN_Data_2010_2020,"-1899860.327","2379964.846","173,525",,"0","2","30",0.00,coast
+"996",Copenhagen,DNK-SKB,Staden Kobenhavn,DA,Denmark,National capital and provincial capital enclave,"616098","3","500,000 to 999,999",UN_Data_2010_2020,"1397059.208","7502876.105","1,378,649","2024","1","7","5",7.38,inland
+"907",Odense,DNK-FYN,Fyn,DA,Denmark,Provincial capital,"202663","5","100,000 to 249,999",UN_Data_2010_2020,"1156832.53","7439691.359","183,763","2024","0","2","30",0.00,coast
+"1563",Kingstown,VCT,St. Vincent & the Grenadines,VC,St. Vincent & the Grenadines,National capital,"0","0",,,"-6816015.903","1477487.713","12,909","2012","1","2","30",0.00,coast
+"2225",Mogadishu,SOM-BND,Banaadir,SO,Somalia,National and provincial capital,"2693000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"5047686.834","227270.42","1,650,227","2014","1","7","5",13.11,inland
+"2424",Kismaayo,SOM-JHO,Jubbada Hoose,SO,Somalia,Provincial capital,"0","0",,,"4735420.301","-38516.32665","358,000","2014","0","2","30",1.69,coast
+"2446",Nairobi,KEN-NAR,Nairobi Area,KE,Kenya,National and provincial capital,"4397073","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"4097002.244","-141387.2139","4,397,073","2019","1","2","30",304.90,inland
+"2427",Mombasa,KEN-COA,Coast,KE,Kenya,Provincial capital,"1411000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"4414362.319","-451325.3126","1,208,333","2019","0","7","5",3.93,coast
+"292",San Jose,CRI-SJO,San Jose,CS,Costa Rica,National and provincial capital,"347398","4","250,000 to 499,999",UN_Data_2010_2020,"-9359589.231","1111031.828","1,453,500","2020","1","7","5",55.94,inland
+"305",Puntarenas,CRI-PNT,Puntarenas,CS,Costa Rica,Provincial capital,"140102","5","100,000 to 249,999",UN_Data_2010_2020,"-9444679.525","1115386.339","87,500","2020","0","1","40",0.00,coast
+"2420",Kigali,RWA-KIG,Kigali,RW,Rwanda,National and provincial capital,"859332","3","500,000 to 999,999",UN_Data_2010_2020,"3346152.729","-217115.2676","859,332","2012","1","1","40",181.80,inland
+"1611",London,GBR-ENG,England,UK,United Kingdom,National and provincial capital,"8135667","1","5,000,000 and greater",UN_Data_2010_2020,"-19815.05599","6708057.576","8,776,535","2021","1","1","40",127.20,inland
+"1620",Liverpool,GBR-ENG,England,UK,United Kingdom,Other,"552267","3","500,000 to 999,999",UN_Data_2010_2020,"-330730.055","7061628.195","506,552","2021","0","1","40",12.82,coast
+"1383",P'yongyang,PRK-PSI,P'yongyang-si,KN,North Korea,National and provincial capital,"3049000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"13999205.24","4725827.002","2,521,785","2008","1","2","30",56.41,inland
+"1376",Ch'ongjin,PRK-HBU,Hamgyong-bukto,KN,North Korea,Provincial capital,"0","0",,,"14447488.39","5128678.847","614,892","2008","0","1","40",4.07,coast
+"1482",Jakarta,IDN-JRA,Jakarta Raya,ID,Indonesia,National and provincial capital,"9607787","1","5,000,000 and greater",UN_Data_2010_2020,"11888922","-687799.1996","9,607,787","2010","1","1","40",26.20,coast
+"1469",Bandung,IDN-JBA,Jawa Barat,ID,Indonesia,Provincial capital,"2394873","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"11978756.15","-771313.4557","2,394,873","2010","0","2","30",76.95,inland
+"1862",Sao Tome,STP-STO,Sao Tome,TP,Sao Tome & Principe,National and provincial capital,"0","0",,,"748958.0256","37514.43821","66,888","2012","1","1","40",0.00,coast
+"510",Malabo,GNQ-BKN,Bioko Norte,EK,Equatorial Guinea,National and provincial capital,"0","0",,,"976557.0582","417032.9254","132,440","2001","1","2","30",0.00,coast
+"517",Bata,GNQ-LTR,Litoral,EK,Equatorial Guinea,Provincial capital,"0","0",,,"1092763.59","205941.2067","132,235","2001","0","2","30",31.94,inland
+"2492",Victoria,SYC,Seychelles,SE,Seychelles,National capital,"26450","7","Less than 50,000",UN_Data_2010_2020,"6172109.657","-514519.2173","29,664","2022","1","2","30",0.00,coast
+"2353",Luanda,AGO-LUA,Luanda,AO,Angola,National and provincial capital,"7555000","1","5,000,000 and greater",UN_Habitat_2020,"1473313.952","-984837.4754","6,759,313","2014","1","1","40",16.95,coast
+"2319",Luena,AGO-MOX,Moxico,AO,Angola,Provincial capital,"0","0",,,"2215814.836","-1321931.919","273,675","2014","0","2","30",688.70,inland
+"2136",Helsinki,FIN-UUS,Uusimaa,FI,Finland,National and provincial capital,"639227","3","500,000 to 999,999",UN_Data_2010_2020,"2780393.676","8443598.847","674,500","2023","1","1","40",7.98,coast
+"2143",Jyvaskyla,FIN-KSU,Keski-Suomi,FI,Finland,Provincial capital,"139519","5","100,000 to 249,999",UN_Data_2010_2020,"2866254.396","8917471.15","147,746","2023","0","2","30",426.50,inland
+"1595",St. Peter Port,XGK,Guernsey,GK,Guernsey,National and provincial capital,"18958","7","Less than 50,000",UN_Data_2010_2020,"-282005.8482","6351564.125","19,676","2023","1","2","30",0.00,coast
+"17",Apia,WSM,Samoa,WS,Samoa,National capital,"37391","7","Less than 50,000",UN_Data_2010_2020,"-19117952.98","-1555525.22","35,974","2021","1","2","30",0.00,coast
+"983",Ljubljana,SVN,Slovenia,SI,Slovenia,National capital,"283055","4","250,000 to 499,999",UN_Data_2010_2020,"1629673.639","5791301.094","284,293","2022","1","2","30",109.10,inland
+"1560",Roseau,DMA,Dominica,DO,Dominica,National capital,"0","0",,,"-6833733.075","1723683.199","14,725","2011","1","2","30",0.00,coast
+"677",Cairo,EGY-AQH,Al Qahirah,EG,Egypt,National and provincial capital,"9539673","1","5,000,000 and greater",UN_Data_2010_2020,"3478823.067","3513568.383","9,801,536","2023","1","1","40",125.80,inland
+"665",Alexandria,EGY-AIS,Al Iskandariyah,EG,Egypt,Other,"5163750","1","5,000,000 and greater",UN_Data_2010_2020,"3329020.663","3659335.15","5,362,517","2023","0","2","30",13.81,coast
+"601",Sarajevo,BIH,Bosnia & Herzegovina,BK,Bosnia & Herzegovina,National capital,"0","0",,,"2051618.473","5445345.751","348,363","2013","1","2","30",185.30,inland
+"1252",Phnom Penh,KHM-PPE,Phnum Penh,CB,Cambodia,National and provincial capital,"1958000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"11678882.81","1296212.388","2,189,460","2019","1","2","30",138.20,inland
+"1310",Kampot,KHM-KMP,Kampot,CB,Cambodia,Provincial capital,"0","0",,,"11597487.46","1187455.032","41,192","2019","0","2","30",10.34,coast
+"2438",Dar es Salaam,TZA-DES,Dar es Salaam,TZ,Tanzania,National and provincial capital,"4364541","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"4369662.633","-760701.6689","5,383,728","2022","1","2","30",8.13,coast
+"2436",Dodoma,TZA-DOD,Dodoma,TZ,Tanzania,Provincial capital,"2083588","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"3978336.121","-688732.3344","765,179","2022","0","1","40",335.50,inland
+"2527",Noumea,NCL,New Caledonia,NC,New Caledonia,National and provincial capital,"99926","6","50,000 to 99,999",UN_Data_2010_2020,"18423375.88","-2451599.201","94,285","2019","1","1","40",18.01,coast
+"2522",Port Moresby,PNG-NCP,National Capital,PP,Papua New Guinea,National capital and provincial capital enclave,"364125","4","250,000 to 499,999",UN_Data_2010_2020,"16380434.68","-1062096.819","364,125","2011","1","2","30",0.48,coast
+"1502",Wabag,PNG-ENG,Enga,PP,Papua New Guinea,Provincial capital,"0","0",,,"15998614.96","-612081.3349","5,041","2011","0","2","30",202.30,inland
+"1414",Ulaanbaatar,MNG-ULN,Ulaanbaatar,MG,Mongolia,National and provincial capital,"1515593","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"11901389.34","6095050.423","1,466,431","2021","1","7","5",646.10,inland
+"2491",Saint-Denis,REU,Reunion,RE,Reunion,National and provincial capital,"146985","5","100,000 to 249,999",UN_Data_2010_2020,"6172665.694","-2375990.823","154,765","2021","1","2","30",0.00,coast
+"2260",Baku,AZE-BAK,Baku,AJ,Azerbaijan,National and provincial capital,"2270030","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"5545491.676","4913136.813","1,291,000","2019","1","7","5",17.91,inland
+"2524",Honiara,SLB,Solomon Is.,BP,Solomon Is.,National capital,"0","0",,,"17805750.75","-1054948.289","130,176","2019","1","2","30",14.43,coast
+"2477",Maseru,LSO-MAS,Maseru,LT,Lesotho,National and provincial capital,"330760","4","250,000 to 499,999",UN_Data_2010_2020,"3060395.811","-3414905.744","343,541","2016","1","2","30",368.70,inland
+"105",Asuncion,PRY-CNT,Central,PA,Paraguay,National capital,"0","0",,,"-6414451.205","-2913254.117","462,241","2022","1","2","30",1013.00,inland
+"1332",Dhaka,BGD-DAK,Dhaka,BG,Bangladesh,National and provincial capital,"8906035","1","5,000,000 and greater",UN_Data_2010_2020,"10064077.05","2718099.612","11,086,309","2011","1","2","30",110.00,inland
+"1176",Chittagong,BGD-CHT,Chittagong,BG,Bangladesh,Provincial capital,"2591681","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"10221912.5","2551191.945","3,669,170","2011","0","2","30",8.86,coast
+"1058",Dushanbe,TJK-DSH,Dushanbe,TI,Tajikistan,National and provincial capital,"770027","3","500,000 to 999,999",UN_Data_2010_2020,"7669913.394","4668809.682","1,201,800","2022","1","7","5",1113.00,inland
+"1049",Bishkek,KGZ-BSK,Bishkek,KG,Kyrgyzstan,National and provincial capital,"991257","3","500,000 to 999,999",UN_Data_2010_2020,"8323358.596","5293723.805","1,103,562","2022","1","7","5",334.40,inland
+"519",Libreville,GAB-EST,Estuaire,GB,Gabon,National and provincial capital,"703939","3","500,000 to 999,999",UN_Data_2010_2020,"1052414.063","43525.80842","703,940","2013","1","1","40",13.90,coast
+"543",Oyem,GAB-WNT,Woleu-Ntem,GB,Gabon,Provincial capital,"0","0",,,"1288968.864","177912.0561","60,685","2013","0","1","40",227.70,inland
+"1596",St. Helier,XJE,Jersey,JE,Jersey,National and provincial capital,"0","0",,,"-233770.5495","6306020.816","35,822","2021","1","2","30",0.00,coast
+"985",Berlin,DEU-BER,Berlin,GM,Germany,National and provincial capital,"3613495","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"1483618.234","6894017.247","3,596,999","2022","1","2","30",246.50,inland
+"2298",Muscat,OMN-MSQ,Masqat,MU,Oman,National and provincial capital,"0","0",,,"6521986.599","2705591.949","24,099","2020","1","2","30",0.25,coast
+"21",Nuku' alofa,TON,Tonga,TN,Tonga,National capital,"35184","7","Less than 50,000",UN_Data_2010_2020,"-19508256.59","-2407494.122","21,185","2021","1","2","30",0.00,coast
+"1568",Paramaribo,SUR-PRM,Paramaribo,NS,Suriname,National capital and provincial capital enclave,"240924","5","100,000 to 249,999",UN_Data_2010_2020,"-6141496.274","649667.5091","240,924","2012","1","2","30",20.86,coast
+"1566",Onverwacht,SUR-PAR,Para,NS,Suriname,Provincial capital,"0","0",,,"-6144835.513","624383.8283","6,113","2012","0","1","40",45.74,inland
+"353",Managua,NIC-MAN,Managua,NU,Nicaragua,National and provincial capital,"1192000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"-9603866.497","1362897.903","1,055,111","2023","1","7","5",44.80,inland
+"303",San Carlos,NIC-RSJ,Rio San Juan,NU,Nicaragua,Provincial capital,"0","0",,,"-9443599.488","1254794.701","17,266","2023","0","2","30",4.77,coast
+"524",Ndjamena,TCD-CBG,Chari-Baguirmi,CD,Chad,National and provincial capital,"1522000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"1696600.922","1357562.055","951,418","2009","1","1","40",1115.00,inland
+"2499",Juba,,Central Equatoria,OD,South Sudan,National and provincial capital,"0","0",,,"3517375.148","539881.9257","230,195","2008","1","2","30",539.40,inland
+"1459",Hagatna,GUM,Guam,GQ,Guam,National and provincial capital,"1051","7","Less than 50,000",UN_Data_2010_2020,"16113161.38","1513136.442","943","2020","1","7","5",0.00,coast
+"2333",Windhoek,NAM-WND,Windhoek,WA,Namibia,National and provincial capital,"325858","4","250,000 to 499,999",UN_Data_2010_2020,"1901002.536","-2578894.465","486,186","2023","1","2","30",299.80,inland
+"2329",Swakopmund,NAM-SWK,Swakopmund,WA,Namibia,Provincial capital,"0","0",,,"1617249.385","-2592641.405","75,921","2023","0","1","40",15.80,coast
+"2348",Kinshasa,ZAR-KNS,Kinshasa,CG,"Congo, DRC",National and provincial capital,"12322000","1","5,000,000 and greater",UN_Habitat_2020,"1703077.039","-481468.0173","7,273,947","2004","1","1","40",381.80,inland
+"1131",Colombo,LKA-WST,Western,CE,Sri Lanka,National and provincial capital,"0","0",,,"8888638.744","772995.8303","561,314","2012","1","1","40",0.00,coast
+"1127",Anuradhapura,LKA-NCN,North Central,CE,Sri Lanka,Provincial capital,"0","0",,,"8948231.301","932825.8461","50,595","2012","0","2","30",69.40,inland
+"1704",Dakar,SEN-DKR,Dakar,SG,Senegal,National and provincial capital,"150257","5","100,000 to 249,999",UN_Data_2010_2020,"-1942747.608","1653154.323","3,186,088","2023","1","2","30",7.48,coast
+"1709",Diourbel,SEN-DRB,Diourbel,SG,Senegal,Provincial capital,"279667","4","250,000 to 499,999",UN_Data_2010_2020,"-1807160.788","1649241.677","157,554","2023","0","2","30",103.00,inland
+"2276",Ashgabat,TKM-ASH,Ashkhabad,TX,Turkmenistan,National and provincial capital,"0","0",,,"6499960.367","4572423.756","1,030,063","2022","1","7","5",508.50,inland
+"2261",Turkmenbashi,TKM-KRS,Krasnovodsk,TX,Turkmenistan,Provincial capital,"0","0",,,"5895257.406","4869575.592","63,000","1995","0","1","40",2.10,coast
+"371",Belmopan,BLZ-CAY,Cayo,BH,Belize,National capital,"13939","7","Less than 50,000",UN_Data_2010_2020,"-9885171.072","1934798","21,974","2024","1","2","30",55.39,inland
+"333",Punta Gorda,BLZ-TOL,Toledo,BH,Belize,Provincial capital,"0","0",,,"-9885171.072","1818160.479","5,453","2024","0","2","30",0.02,coast
+"600",Rome,ITA-LAZ,Lazio,IT,Italy,National and provincial capital,"2864467","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"1393719.951","5143020.499","2,754,719","2024","1","2","30",48.84,inland
+"590",Naples,ITA-CMP,Campania,IT,Italy,Other,"962666","3","500,000 to 999,999",UN_Data_2010_2020,"1586305.462","4987793.296","911,697","2024","0","1","40",13.83,coast
+"1556",Saint John's,ATG,Antigua & Barbuda,AC,Antigua & Barbuda,National capital,"0","0",,,"-6884239.604","1935354.669","22,219","2011","1","2","30",0.00,coast
+"2528",Yaren,NRU,Nauru,NR,Nauru,National capital,"0","0",,,"18581082.09","-57519.44475","803","2021","1","7","5",0.00,coast
+"1072",Kabul,AFG-KAB,Kabol,AF,Afghanistan,National and provincial capital,"4136000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"7696268.728","4100315.268","4,434,600","2020","1","2","30",1211.00,inland
+"23",Adamstown,PCN,Pitcairn Is.,PC,Pitcairn Is.,National and provincial capital,"49","7","Less than 50,000",UN_Data_2010_2020,"-14482999.77","-2883853.3","50","2020","1","7","5",0.00,coast
+"1885",Abuja,NGA-FCT,Abuja Capital Territory (Abuja),NI,Nigeria,National and provincial capital,"3306000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"807777.1165","1012475.967","107,069","1991","1","2","30",451.40,inland
+"1860",Port Harcourt,NGA-RVR,Rivers,NI,Nigeria,Provincial capital,"2782000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"779792.7456","533284.3614","703,421","1991","0","1","40",36.80,coast
+"1643",Rabat,MAR-NWT,North-West,MO,Morocco,National and provincial capital,"2213000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"-760645.8231","4030815.792","577,827","2014","1","1","40",15.58,coast
+"1665",Fes,MAR-CNR,Centre-North,MO,Morocco,Provincial capital,"1319000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"-556152.028","4034712.095","1,112,072","2014","0","7","5",179.90,inland
+"118",Buenos Aires,ARG-DFD,Distrito Federal,AR,Argentina,National and provincial capital,"15416728","1","5,000,000 and greater",UN_Data_2010_2020,"-6506605.724","-4112697.466","3,121,707","2022","1","2","30",16.71,coast
+"125",Cordoba,ARG-CRD,Cordoba,AR,Argentina,Provincial capital,"1563702","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"-7144484.766","-3673856.628","1,317,298","2010","0","7","5",726.30,inland
+"1959",Amsterdam,NLD-NHL,Noord-Holland,NL,Netherlands,National capital,"821752","3","500,000 to 999,999",UN_Data_2010_2020,"544891.0211","6867859.513","1,136,210","2021","1","7","5",64.89,inland
+"1964",Leeuwarden,NLD-FRS,Friesland,NL,Netherlands,Provincial capital,"107691","5","100,000 to 249,999",UN_Data_2010_2020,"644205.9253","7019892.71","97,070","2021","0","1","40",37.14,coast
+"18",Pago Pago,ASM,American Samoa,AQ,American Samoa,National and provincial capital,"3656","7","Less than 50,000",UN_Data_2010_2020,"-19001998.93","-1605024.613","3,000","2020","1","2","30",0.00,coast
+"374",Grand Turk,TCA,Turks & Caicos Is.,TK,Turks & Caicos Is.,National and provincial capital,"4831","7","Less than 50,000",UN_Data_2010_2020,"-7918525.695","2447611.185","4,831","2012","1","2","30",0.00,coast
+"966",Prague,CZE-STR,Stredocesky,EZ,Czech Republic,National and provincial capital,"1294513","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"1609345.58","6464652.921","1,301,432","2021","1","7","5",660.70,inland
+"2137",Tallinn,EST,Estonia,EN,Estonia,National capital,"430805","4","250,000 to 499,999",UN_Data_2010_2020,"2755157.433","8270995.044","437,817","2021","1","2","30",14.10,coast
+"964",Stockholm,SWE-STC,Stockholms,SW,Sweden,National and provincial capital,"1595000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"2002799.1","8252311.895","1,767,108","2020","1","7","5",18.69,inland
+"942",Kalmar,SWE-KLM,Kalmar,SW,Sweden,Provincial capital,"0","0",,,"1822189.001","7692358.154","41,852","2020","0","2","30",0.00,coast
+"1564",Bridgetown,BRB,Barbados,BB,Barbados,National capital,"0","0",,,"-6636405.689","1470687.656","5,996","2000","1","2","30",0.00,coast
+"1893",Niamey,NER-NIA,Niamey,NG,Niger,National and provincial capital,"1026848","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"235997.8064","1518517.71","978,029","2012","1","1","40",822.80,inland
+"874",Djibouti,DJI-DJI,Djibouti,DJ,Djibouti,National and provincial capital,"0","0",,,"4797870.207","1288857.41","776,966","2024","1","1","40",0.00,coast
+"877",Ali Sabieh,DJI-ASA,'Ali Sabih,DJ,Djibouti,Provincial capital,"0","0",,,"4754678.362","1249348.413","44,782","2024","0","2","30",55.81,inland
+"400",Kingston,JAM-KNG,Kingston,JM,Jamaica,National and provincial capital,"592291","3","500,000 to 999,999",UN_Data_2010_2020,"-8549283.424","2033677.54","584,627","2011","1","1","40",11.22,coast
+"2115",Vilnius,LTU,Lithuania,LH,Lithuania,National capital,"549808","3","500,000 to 999,999",UN_Data_2010_2020,"2813707.035","7301655.644","592,156","2024","1","1","40",456.50,inland
+"1720",Bissau,GNB-BIS,Bissau,PU,Guinea-Bissau,National capital and provincial capital enclave,"0","0",,,"-1736361.275","1330234.401","387,909","2009","1","2","30",46.68,inland
+"1682",Catio,GNB-TMB,Tombali,PU,Guinea-Bissau,Provincial capital,"0","0",,,"-1688349.393","1256690.329","5,081","2009","0","2","30",13.09,coast
+"1210",Bangkok,THA-KTH,Krung Thep,TH,Thailand,National and provincial capital,"8305218","1","5,000,000 and greater",UN_Data_2010_2020,"11189464.68","1545550.421","5,666,264","2019","1","2","30",38.97,inland
+"1214",Chon Buri,THA-CBU,Chon Buri,TH,Thailand,Provincial capital,"1158989","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"11241821.67","1501806.551","26,313","2019","0","2","30",1.84,coast
+"2451",Lilongwe,MWI-CNT,Central,MI,Malawi,National and provincial capital,"989318","3","500,000 to 999,999",UN_Data_2010_2020,"3759704.849","-1572266.603","989,318","2018","1","1","40",86.10,inland
+"259",Mexico City,MEX-DTD,Distrito Federal,MX,Mexico,National and provincial capital,"21942666","1","5,000,000 and greater",UN_Data_2010_2020,"-11034831.13","2205279.119","8,843,706","2020","1","1","40",258.90,inland
+"365",Merida,MEX-YCT,Yucatan,MX,Mexico,Provincial capital,"1237697","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"-9977343.607","2389851.151","921,771","2020","0","1","40",29.59,coast
+"2482",Pretoria,ZAF-GAT,Gauteng,SF,South Africa,National capital,"1753000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"3141213.095","-2965802.099","1,763,336","2011","1","7","5",484.90,inland
+"2462",Port Elizabeth,ZAF-ECP,Eastern Cape,SF,South Africa,Other,"1309000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"2836899.443","-4012910.977","876,436","2011","0","1","40",0.00,coast
+"1822",Yamoussoukro,CIV-YMS,Yamoussoukro,IV,Cote d'Ivoire,National and provincial capital,"212670","5","100,000 to 249,999",UN_Data_2010_2020,"-588100.8284","760774.3071","212,670","2014","1","2","30",192.90,inland
+"1768",San Pedro,CIV-SNP,San-Pedro,IV,Cote d'Ivoire,Provincial capital,"164944","5","100,000 to 249,999",UN_Data_2010_2020,"-738826.9814","530714.6677","164,944","2014","0","2","30",10.16,coast
+"2523",Funafuti,TUV,Tuvalu,TV,Tuvalu,National capital,"6152","7","Less than 50,000",UN_Data_2010_2020,"19950889.24","-953814.1827","6,320","2017","1","1","40",0.00,coast
+"1452",Majuro,MHL,Marshall Is.,RM,Marshall Is.,National capital,"27797","7","Less than 50,000",UN_Data_2010_2020,"19076560.58","794752.56","23,156","2021","1","2","30",0.00,coast
+"19",Papeete,PYF,French Polynesia,FP,French Polynesia,National and provincial capital,"25763","7","Less than 50,000",UN_Data_2010_2020,"-16650057.32","-1983191.794","26,654","2022","1","2","30",0.00,coast
+"859",Asmara,ERI-HMS,Hamasen,ER,Eritrea,National capital,"0","0",,,"4338120.599","1727260.702","380,568","1997","1","2","30",72.71,inland
+"69",Quito,ECU-PCH,Pichincha,EC,Ecuador,National and provincial capital,"1619146","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"-8741282.817","-25547.88236","1,763,275","2022","1","7","5",173.60,inland
+"47",Guayaquil,ECU-GUA,Guayas,EC,Ecuador,Provincial capital,"2291158","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"-8895304.144","-245307.5303","2,665,392","2022","0","2","30",8.72,coast
+"817",Damascus,SYR-DMS,Dimashq,SY,Syria,National and provincial capital,"0","0",,,"4040897.219","3961859.957","1,414,913","2004","1","7","5",104.10,inland
+"746",Al Ladhiqiyah,SYR-ALD,Al Ladhiqiyah,SY,Syria,Provincial capital,"0","0",,,"3984347.37","4234910.581","383,786","2004","0","2","30",0.00,coast
+"492",Havana,CUB-CHB,Ciudad de la Habana,CU,Cuba,National and provincial capital,"2131937","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"-9174557.866","2637939.992","2,137,847","2022","1","2","30",7.86,coast
+"380",Camaguey,CUB-CMG,Camaguey,CU,Cuba,Provincial capital,"309542","4","250,000 to 499,999",UN_Data_2010_2020,"-8673346.658","2437964.687","310,819","2022","0","2","30",74.02,inland
+"1601",Torshavn,FRO,Faeroe Islands,FO,Faroe Is.,National and provincial capital,"13408","7","Less than 50,000",UN_Data_2010_2020,"-753632.6812","8864123.482","14,099","2024","1","2","30",0.00,coast
+"971",Vienna,AUT-WIE,Wien,AU,Austria,National capital and provincial capital enclave,"1897491","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"1816843.01","6140546.352","2,005,760","2024","1","2","30",501.40,inland
+"824",Amman,JOR-AMM,'Amman,JO,Jordan,National and provincial capital,"4007526","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"4000032.736","3756667.658","1,812,059","2015","1","7","5",131.70,inland
+"608",Belgrade,SRB,Serbia,RB,Serbia,National capital,"1382547","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"2272315.611","5590039.83","1,197,714","2022","1","7","5",418.40,inland
+"842",Kampala,UGA-CNT,Central,UG,Uganda,National and provincial capital,"1507114","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"3626232.013","35956.50132","1,680,600","2020","1","7","5",33.77,inland
+"2392",Masaka,UGA-STB,South Buganda,UG,Uganda,Provincial capital,"103293","5","100,000 to 249,999",UN_Data_2010_2020,"3532612.76","-37292.02679","116,600","2020","0","2","30",28.08,coast
+"609",Podgorica,MON,Montenegro,MJ,Montenegro,National capital,"185937","5","100,000 to 249,999",UN_Data_2010_2020,"2159598.601","5236173.475","173,024","2023","1","2","30",66.32,inland
+"349",Tegucigalpa,HND-FMR,Francisco Morazan,HO,Honduras,National and provincial capital,"996658","3","500,000 to 999,999",UN_Data_2010_2020,"-9707393.287","1585577.469","996,658","2013","1","1","40",97.21,inland
+"342",San Pedro Sula,HND-CRT,Cortes,HO,Honduras,Provincial capital,"598519","3","500,000 to 999,999",UN_Data_2010_2020,"-9799232.208","1747122.132","598,519","2013","0","1","40",23.94,coast
+"1562",Castries,LCA,St. Lucia,ST,St. Lucia,National capital,"0","0",,,"-6788596.576","1574217.012","446","2022","1","7","5",0.00,coast
+"1572",Cayenne,GUF-CYN,Cayenne,FG,French Guiana,National capital,"57614","6","50,000 to 99,999",UN_Data_2010_2020,"-5825348.466","550041.8769","63,468","2021","1","1","40",3.05,coast
+"157",Montevideo,URY-MNT,Montevideo,UY,Uruguay,National and provincial capital,"1383135","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"-6252815.641","-4153014.778","1,319,108","2011","1","7","5",0.00,coast
+"106",Artigas,URY-ART,Artigas,UY,Uruguay,Provincial capital,"0","0",,,"-6286545.787","-3556361.279","74,100","2020","0","1","40",509.10,inland
+"1561",Fort-De-France,MTQ,Martinique,MB,Martinique,National and provincial capital,"82502","6","50,000 to 99,999",UN_Data_2010_2020,"-6798948.957","1643999.21","74,921","2021","1","1","40",0.00,coast
+"1368",Beijing,CHN-BJN,Beijing,CH,China,National and provincial capital,"20781000","1","5,000,000 and greater",UN_Habitat_2020,"12956256.95","4852319.277","18,960,744","2020","1","2","30",205.90,inland
+"1405",Hong Kong,CHN-HKG,Hong Kong,CH,China,Other,"7803000","1","5,000,000 and greater",UN_Habitat_2020,"12710125.2","2544454.272","7,413,070","2021","0","1","40",3.06,coast
+"1410",Bandar Seri Begawan,BRN,Brunei,BX,Brunei,National capital,"0","0",,,"12798067.84","549818.6278","266,682","2021","1","2","30",19.09,coast
+"2496",Antananarivo,MDG-ANN,Antananarivo,MA,Madagascar,National and provincial capital,"1275207","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"5290792.912","-2144107.505","1,274,225","2018","1","7","5",167.60,inland
+"2495",Toamasina,MDG-TMS,Toamasina,MA,Madagascar,Provincial capital,"326286","4","250,000 to 499,999",UN_Data_2010_2020,"5497323.524","-2057069.511","325,857","2018","0","2","30",0.00,coast
+"2171",Moscow,RUS-MSC,Moskovskaya oblast',RS,Russia,National and provincial capital,"11918057","1","5,000,000 and greater",UN_Data_2010_2020,"4196744.952","7508807.065","13,010,112","2021","1","2","30",1097.00,inland
+"1375",Vladivostok,RUS-PRM,Primorskiy kray,RS,Russia,Provincial capital,"624281","3","500,000 to 999,999",UN_Data_2010_2020,"14689768.92","5331779.855","603,519","2021","0","1","40",2.19,coast
+"572",Tunis,TUN-TUN,Tunis,TS,Tunisia,National and provincial capital,"1056247","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"1131674.431","4413907.667","599,368","2023","1","1","40",2.25,coast
+"562",Kebili,TUN-QBL,Quibili,TS,Tunisia,Provincial capital,"0","0",,,"998647.4152","3987251.761","26,310","2014","0","2","30",149.90,inland
+"934",Oslo,NOR-OSL,Oslo,NO,Norway,National and provincial capital,"681067","3","500,000 to 999,999",UN_Data_2010_2020,"1192454.202","8385947.64","1,082,575","2023","1","7","5",110.60,inland
+"928",Arendal,NOR-AAG,Aust-Agder,NO,Norway,Provincial capital,"0","0",,,"975826.6987","8065588.554","44,856","2023","0","2","30",0.00,coast
+"2525",Port Vila,VUT,Vanuatu,NH,Vanuatu,National capital,"20094","7","Less than 50,000",UN_Data_2010_2020,"18737407.71","-2007138.203","49,528","2020","1","2","30",0.00,coast
+"2082",Minsk,BLR-MNS,Minsk,BO,Belarus,National and provincial capital,"1982444","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"3069697.223","7151228.485","1,995,471","2023","1","7","5",724.60,inland
+"1937",Paris,FRA-IDF,Ile-de-France,FR,France,National and provincial capital,"2206488","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"262152.1853","6250849.855","2,133,111","2021","1","2","30",245.10,inland
+"1919",Marseille,FRA-PAC,Provence-Alpes-Cote d'Azur,FR,France,Provincial capital,"861635","3","500,000 to 999,999",UN_Data_2010_2020,"599455.1562","5355452.243","873,076","2021","0","1","40",0.00,coast
+"2124",Kyiv,UKR-KYV,Kyiv,UP,Ukraine,National and provincial capital,"2893215","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"3395479.063","6524253.906","2,952,301","2022","1","2","30",643.30,inland
+"2130",Odesa,UKR-ODS,Odessa,UP,Ukraine,Provincial capital,"993831","3","500,000 to 999,999",UN_Data_2010_2020,"3421219.246","5855450.94","1,010,537","2022","0","7","5",0.00,coast
+"649",Ankara,TUR-ANK,Ankara,TU,Turkey,National and provincial capital,"5229000","1","5,000,000 and greater",UN_Habitat_2020,"3657178.939","4855630.684","5,186,002","2022","1","2","30",248.70,inland
+"646",Zonguldak,TUR-ZNG,Zonguldak,TU,Turkey,Provincial capital,"0","0",,,"3539848.305","5079835.716","101,749","2022","0","2","30",0.00,coast
+"781",Yerevan,ARM,Armenia,AM,Armenia,National capital,"1079732","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"4957354.742","4896218.999","1,086,677","2022","1","7","5",384.90,inland
+"1737",Bamako,MLI-BAM,Bamako,ML,Mali,National and provincial capital,"2998000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"-889051.1837","1420110.761","4,227,569","2022","1","2","30",723.50,inland
+"1647",Lisbon,PRT-LIS,Lisboa,PO,Portugal,National and provincial capital,"506654","3","500,000 to 999,999",UN_Data_2010_2020,"-1016346.461","4683069.433","545,796","2021","1","1","40",39.11,coast
+"1636",Braganca,PRT-BRG,Braganca,PO,Portugal,Provincial capital,"0","0",,,"-751963.5592","5132261.565","22,851","2021","0","2","30",244.80,inland
+"1546",Georgetown,GUY-DMM,Demerara-Mahaica,GY,Guyana,National capital,"24849","7","Less than 50,000",UN_Data_2010_2020,"-6475454.411","755392.5139","118,369","2012","1","2","30",5.02,coast
+"1578",Saint-Pierre,SPM,St. Pierre & Miquelon,SB,St. Pierre & Miquelon,National and provincial capital,"0","0",,,"-6255487.651","5907212.85","5,282","2021","1","2","30",0.00,coast
+"1879",Porto Novo,BEN-OUE,Oueme,BN,Benin,National and provincial capital,"264320","4","250,000 to 499,999",UN_Data_2010_2020,"293048.5937","736462.5962","264,320","2013","1","2","30",38.88,inland
+"1881",Cotonou,BEN-ATL,Atlantique,BN,Benin,Provincial capital,"679012","3","500,000 to 999,999",UN_Data_2010_2020,"271619.4784","709114.027","679,012","2013","0","1","40",14.81,coast
+"596",San Marino,SMR,San Marino,SM,San Marino,National capital,"4127","7","Less than 50,000",UN_Data_2010_2020,"1387782.849","5452554.331","33,908","2023","1","2","30",29.85,coast
+"2409",Bujumbura,BDI-BJM,Bujumbura,BY,Burundi,National and provincial capital,"0","0",,,"3267895.23","-375586.5342","497,166","2008","1","2","30",12.50,coast
+"2398",Cankuzo,BDI-CNK,Cankuzo,BY,Burundi,Provincial capital,"0","0",,,"3397103.107","-352695.4827","3,624","2008","0","2","30",139.90,inland
+"1267",Hanoi,VNM-HNO,Ha Noi,VM,Vietnam,National capital and provincial capital enclave,"4201000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"11779828.78","2395456.493","3,605,364","2019","1","2","30",102.00,inland
+"1274",Haiphong,VNM-HPH,Hai Phong,VM,Vietnam,Other,"1280000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"11875539.95","2375353.959","841,520","2019","0","1","40",18.36,coast
+"1882",Lome,TGO-GLF,Golfe,TO,Togo,National and provincial capital,"839566","3","500,000 to 999,999",UN_Data_2010_2020,"133755.4221","680652.9743","1,477,658","2010","1","7","5",14.76,inland
+"2457",Maputo,MOZ-MAP,Maputo,MZ,Mozambique,National and provincial capital,"1507000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"3626120.802","-2994375.618","1,080,277","2017","1","7","5",5.30,inland
+"2310",Pemba,MOZ-CDL,Cabo Delgado,MZ,Mozambique,Provincial capital,"0","0",,,"4508439.422","-1455923.51","200,529","2017","0","2","30",7.68,coast
+"1713",Banjul,GMB-BNJ,Banjul,GA,The Gambia,National capital and provincial capital enclave,"0","0",,,"-1847546.385","1512788.226","31,054","2013","1","2","30",16.58,coast
+"1712",Kerewan,GMB-NBA,North Bank,GA,The Gambia,Provincial capital,"0","0",,,"-1791686.828","1516227.22","4,570","2013","0","2","30",69.84,inland
+"1550",San Juan,PRI-SJN,San Juan,RQ,Puerto Rico,National and provincial capital,"320967","4","250,000 to 499,999",UN_Data_2010_2020,"-7354767.388","2084303.743","322,854","2020","1","2","30",9.12,coast
+"2309",Moroni,COM,Comoros,CN,Comoros,National capital,"0","0",,,"4813789.011","-1311585.316","74,749","2017","1","1","40",0.00,coast
+"1549",Road Town,VGB,British Virgin Is.,VI,British Virgin Is.,National and provincial capital,"0","0",,,"-7193654.812","2085485.273","500,070","2021","1","2","30",0.00,coast
+"2042",Budapest,HUN-BDP,Budapest,HU,Hungary,National capital and provincial capital enclave,"1751010","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"2125534.84","6026543.413","1,685,342","2022","1","7","5",610.10,inland
+"1616",Douglas,XIM,Isle of Man,IM,Isle of Man,National and provincial capital,"0","0",,,"-498620.3275","7198982.485","26,677","2021","1","2","30",0.00,coast
+"2257",Abu Dhabi,ARE-AZA,Abu Zaby,AE,United Arab Emirates,National and provincial capital,"1539000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"6052551.857","2811519.478","1,202,756","2015","1","7","5",0.37,coast
+"1694",Freetown,SLE-WAR,Western Area,SL,Sierra Leone,National and provincial capital,"1055964","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"-1473758.705","948130.0642","609,174","2021","1","1","40",0.00,coast
+"1776",Kenema,SLE-EST,Eastern,SL,Sierra Leone,Provincial capital,"200443","5","100,000 to 249,999",UN_Data_2010_2020,"-1245108.686","879638.7356","255,110","2021","0","2","30",125.50,inland
+"1390",Seoul,KOR-SJK,Seoul-jikhalsi,KS,South Korea,National capital and provincial capital enclave,"9704546","1","5,000,000 and greater",UN_Data_2010_2020,"14130366.76","4514976.42","9,586,195","2020","1","1","40",55.74,inland
+"1379",Pusan,KOR-PSN,Pusan-jikhalsi,KS,South Korea,Provincial capital enclave,"3400027","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"14366335.48","4185372.957","3,349,016","2020","0","2","30",8.56,coast
+"296",Oranjestad,ABW,Aruba,AA,Aruba,National and provincial capital,"28295","7","Less than 50,000",UN_Data_2010_2020,"-7795258.954","1405516.228","81,915","2020","1","1","40",0.00,coast
+"631",Tirana,ALB-TIR,Tirane,AL,Albania,National and provincial capital,"418495","4","250,000 to 499,999",UN_Data_2010_2020,"2207688.627","5061435.007","418,495","2011","1","2","30",48.54,inland
+"605",Durres,ALB-DRR,Durres,AL,Albania,Provincial capital,"113249","5","100,000 to 249,999",UN_Data_2010_2020,"2165609.868","5060694.538","113,249","2011","0","2","30",6.72,coast
+"1408",Manila,PHL-NCR,National Capital Region,RP,Philippines,National and provincial capital,"1780148","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"13465979.1","1645065.641","1,846,513","2020","1","7","5",6.47,inland
+"1141",Davao,PHL-SMN,Southern Mindanao,RP,Philippines,Other,"1632991","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"13983251.38","790164.8566","1,436,085","2020","0","7","5",1.70,coast
+"16",Mata-Utu,WLF,Wallis & Futuna,WF,Wallis & Futuna,National and provincial capital,"0","0",,,"-19609102.37","-1490973.371","11,151","2023","1","2","30",0.00,coast
+"429",Santo Domingo,DOM-SDM,Santo Domingo,DR,Dominican Republic,National and provincial capital,"965040","3","500,000 to 999,999",UN_Data_2010_2020,"-7781121.496","2094864.988","2,752,784","2022","1","2","30",7.95,coast
+"413",Santiago,DOM-SNT,Santiago,DR,Dominican Republic,Provincial capital,"591985","3","500,000 to 999,999",UN_Data_2010_2020,"-7871066.865","2208697.019","612,595","2022","0","1","40",40.89,inland
+"826",Jerusalem,ISR-YRS,Yerushalayim,IS,Israel,National and provincial capital,"910370","3","500,000 to 999,999",UN_Data_2010_2020,"3921253.262","3733647.518","966,210","2021","1","1","40",64.41,inland
+"812",Tel Aviv-Yafo,ISR-TAV,Tel Aviv,IS,Israel,Provincial capital,"447730","4","250,000 to 499,999",UN_Data_2010_2020,"3870578.396","3769219.551","467,875","2021","0","2","30",3.32,coast
+"1094",Kathmandu,NPL-BGM,Bagmati,NP,Nepal,National and provincial capital,"1467000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"9496994.534","3212713.992","862,400","2021","1","1","40",783.80,inland
+"1552",The Valley,AIA,Anguilla,AV,Anguilla,National and provincial capital,"2812","7","Less than 50,000",UN_Data_2010_2020,"-7020548.77","2062924.574","1,298","2011","1","7","5",0.00,coast
+"1078",Tashkent,UZB-TSK,Tashkent,UZ,Uzbekistan,National and provincial capital,"2509969","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"7719992.138","5048981.24","2,956,384","2023","1","2","30",778.00,inland
+"2069",Longyearbyen,SJM,Svalbard and Jan Mayen,SV,Svalbard,National and provincial capital,"0","0",,,"1743263.26","14476657.52","2,465","2023","1","2","30",257.10,inland
+"1690",Conakry,GIN-CNK,Conakry,GV,Guinea,National and provincial capital,"1879695","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"-1521959.924","1068057.983","1,660,973","2014","1","7","5",5.40,inland
+"1688",Boffa,GIN-BOF,Boffa,GV,Guinea,Provincial capital,"0","0",,,"-1563259.231","1139808.11","8,631","2014","0","1","40",31.62,coast
+"288",Hamilton,BMU,Bermuda,BD,Bermuda,National and provincial capital,"854","7","Less than 50,000",UN_Data_2010_2020,"-7211183.623","3801310.39","854","2016","1","7","5",0.00,coast
+"15",La Paz,BOL-LPA,La Paz,BL,Bolivia,National and provincial capital,"2143000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"-7586005.249","-1862583.584","3,022,566","2024","1","2","30",68.82,inland
+"1487",Dili,TLS,Timor Leste,TT,Timor Leste,National capital,"222323","5","100,000 to 249,999",UN_Data_2010_2020,"13979612.57","-957697.5731","267,623","2022","1","2","30",4.71,coast
+"2039",Bratislava,SVK-BRS,Bratislava,LO,Slovakia,National capital and provincial capital enclave,"431214","4","250,000 to 499,999",UN_Data_2010_2020,"1906902.592","6131845.861","478,040","2023","1","2","30",547.70,inland
+"2138",Riga,LVA,Latvia,LG,Latvia,National capital,"632614","3","500,000 to 999,999",UN_Data_2010_2020,"2677233.566","7735631.17","620,974","2021","1","1","40",29.36,coast
+"2382",Lusaka,ZMB-LUS,Lusaka,ZA,Zambia,National and provincial capital,"1747152","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"3135870.089","-1738805.993","2,212,301","2022","1","2","30",724.10,inland
+"2",Brasilia,BRA-DFD,Distrito Federal,BR,Brazil,National and provincial capital,"2481272","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"-5331952.879","-1780660.511","2817381","2022","1","2","30",964.40,inland
+"165",Fortaleza,BRA-CEA,Ceara,BR,Brazil,Provincial capital,"2452185","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"-4295708.116","-421427.6123","3,424,978","2022","0","2","30",12.84,coast
+"1559",Basse-Terre,GLP,Guadeloupe,GP,Guadeloupe,National and provincial capital,"0","0",,,"-6871113.047","1805292.075","9,779","2021","1","1","40",0.00,coast
+"2216",Tehran,IRN-TER,Tehran,IR,Iran,National and provincial capital,"8693706","1","5,000,000 and greater",UN_Data_2010_2020,"5727164.754","4269568.654","8,693,706","2016","1","1","40",140.00,inland
+"2268",Rasht,IRN-GIL,Gilan,IR,Iran,Provincial capital,"679995","3","500,000 to 999,999",UN_Data_2010_2020,"5520667.21","4477368.538","679,995","2016","0","1","40",30.06,coast
+"2241",Riyadh,SAU-ARI,Ar Riyad,SA,Saudi Arabia,National and provincial capital,"5188286","1","5,000,000 and greater",UN_Data_2010_2020,"5206412.954","2832815.975","6,924,566","2022","1","1","40",403.60,inland
+"861",Jeddah,SAU-MKK,Makkah,SA,Saudi Arabia,Other,"3430697","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"4360718.894","2456744.936","3,712,917","2022","0","2","30",8.28,coast
+"1475",West Island,CCK,Cocos Is.,CK,Cocos Is.,National and provincial capital,"0","0",,,"10778629.63","-1363641.934","147","2021","1","7","5",0.00,coast
+"286",George Town,CYM,Cayman Is.,CJ,Cayman Is.,National and provincial capital,"28089","7","Less than 50,000",UN_Data_2010_2020,"-9059550.596","2190287.624","34,921","2021","1","2","30",0.00,coast
+"308",Panama,PAN-PAN,Panama,PM,Panama,National and provincial capital,"481993","4","250,000 to 499,999",UN_Data_2010_2020,"-8851800.698","1006345.652","1,132,969","2023","1","7","5",7.19,inland
+"307",Colon,PAN-COL,Colon,PM,Panama,Provincial capital,"41019","7","Less than 50,000",UN_Data_2010_2020,"-8893909.522","1046064.739","159,157","2023","0","2","30",0.00,coast
+"708",Bucharest,ROM-BUC,Bucuresti,RO,Romania,National and provincial capital,"1829897","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"2907995.543","5532303.438","1,716,961","2021","1","7","5",276.20,inland
+"714",Constanta,ROM-CNS,Constanta,RO,Romania,Provincial capital,"0","0",,,"3187188.161","5486047.819","263,688","2021","0","2","30",2.76,coast
+"1555",Basseterre,KNA,St. Kitts & Nevis,SC,St. Kitts & Nevis,National capital,"0","0",,,"-6983294.027","1954958.331","11,400","2011","1","2","30",0.00,coast
+"1584",Nuuk,GRL-VST,Vestgronland,GL,Greenland,National and provincial capital,"18128","7","Less than 50,000",UN_Data_2010_2020,"-5741859.189","9418965.687","19,872","2024","1","2","30",58.41,inland
+"1574",Thule,GRL-NRD,Nordgronland,GL,Greenland,Provincial capital,"0","0",,,"-7719450.048","14097583.4","590","2024","0","7","5",0.00,coast
+"2458",Mbabane,SWZ-HHH,Hhohho,WZ,Eswatini,National capital,"0","0",,,"3472199.67","-3036704.874","60,691","2017","1","1","40",164.30,inland
+"1011",Astana,KAZ-TSL,Tselinograd,KZ,Kazakhstan,National and provincial capital,"1107270","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"7951774.024","6654794.495","1,354,507","2023","1","7","5",838.90,inland
+"22",Avarua,COK,Cook Is.,CW,Cook Is.,National and provincial capital,"0","0",,,"-17785147.09","-2419719.439","5,113","2021","1","2","30",0.00,coast
+"2497",Port Louis,MUS,Mauritius,MP,Mauritius,National capital,"146737","5","100,000 to 249,999",UN_Data_2010_2020,"6400425.031","-2292588.201","140,403","2022","1","2","30",0.00,coast
+"1848",Accra,GHA-GAC,Greater Accra,GH,Ghana,National and provincial capital,"1594419","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"-22366.82844","619749.2251","2,070,463","2010","1","2","30",10.52,coast
+"1846",Kumasi,GHA-ASH,Ashanti,GH,Ghana,Provincial capital,"1730249","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"-180559.9567","746089.1412","2,035,064","2010","0","2","30",193.10,inland
+"865",Sanaa,YEM-SAN,San'a',YM,Yemen,National and provincial capital,"3820000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"4921379.394","1730890.68","1,707,531","2004","1","7","5",156.70,inland
+"2214",Aden,YEM-ADN,Aden,YM,Yemen,Other,"1247000","2","1,000,000 to 4,999,999",UN_Habitat_2020,"5013996.773","1433039.158","588,938","2004","0","1","40",0.00,coast
+"1460",Tokyo,JPN-KNT,Kanto,JA,Japan,National and provincial capital,"9272740","1","5,000,000 and greater",UN_Data_2010_2020,"15563467.4","4257090.154","9,733,276","2020","1","1","40",80.75,inland
+"1399",Kita Kyushu,JPN-KYS,Kyushu,JA,Japan,Other,"961286","3","500,000 to 999,999",UN_Data_2010_2020,"14560305.58","3986163.302","939,029","2020","0","1","40",34.39,coast
+"1513",Washington D.C.,USA-DOC,District of Columbia,US,United States,National and provincial capital,"705749","3","500,000 to 999,999",US_Census_2019,"-8566461.581","4706057.115","678,972","2023","1","1","40",51.34,inland
+"1529",Boston,USA-MSS,Massachusetts,US,United States,Provincial capital,"692600","3","500,000 to 999,999",US_Census_2019,"-7915149.374","5217318.758","653,833","2023","0","1","40",31.03,coast
+"1103",Thimphu,BTN-THM,Thimphu,BT,Bhutan,National and provincial capital,"114551","5","100,000 to 249,999",UN_Data_2010_2020,"9981684.83","3178928.347","114,551","2017","1","2","30",577.80,inland
+"2466",Gaborone,BWA-SEA,South-East,BC,Botswana,National capital,"231592","5","100,000 to 249,999",UN_Data_2010_2020,"2888829.664","-2831582.515","246,325",,"1","2","30",749.40,inland
+"984",Zagreb,HRV,Croatia,HR,Croatia,National capital,"790017","3","500,000 to 999,999",UN_Data_2010_2020,"1777104.617","5749475.079","663,592","2021","1","1","40",165.60,inland
+"978",Rijeka,HRV,Croatia,HR,Croatia,Other,"128624","5","100,000 to 249,999",UN_Data_2010_2020,"1606707.65","5674145.78","107,964","2021","0","2","30",21.24,coast
+"852",Khartoum,SDN-AKH,Al Khartum,SU,Sudan,National and provincial capital,"6028000","1","5,000,000 and greater",UN_Habitat_2020,"3621222.639","1752668.527","1,410,858","2008","1","7","5",641.50,inland
+"1532",Caracas,VEN-DFD,Distrito Federal,VE,Venezuela,National and provincial capital,"2082130","2","1,000,000 to 4,999,999",UN_Data_2010_2020,"-7447082.193","1175004.613","2,087,700","2019","1","2","30",9.93,coast
+"469",Valencia,VEN-CRB,Carabobo,VE,Venezuela,Provincial capital,"888109","3","500,000 to 999,999",UN_Data_2010_2020,"-7570059.403","1139016.186","1,585,500","2019","0","7","5",42.41,inland

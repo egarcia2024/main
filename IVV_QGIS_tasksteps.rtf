@@ -1,0 +1,55 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab560
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f0\fs24 \cf0 1. removed rows with NULL pop values\
+2. dropped columns \'93object ID,\'94 \'93Port ID,\'94 and \'93Label Flag\'94\
+3. \'93capital\'94 (1 for yes, 0 for no)\
+\
+4. \'93rank\'94 (population group ranking):\
+\
+CASE\
+    WHEN "pop" IS NULL THEN 0\
+    WHEN "pop" >= 5000000 THEN 1\
+    WHEN "pop" >= 1000000 AND "pop" < 5000000 THEN 2\
+    WHEN "pop" >= 500000 AND "pop" < 1000000 THEN 3\
+    WHEN "pop" >= 250000 AND "pop" < 500000 THEN 4\
+    WHEN "pop" >= 100000 AND "pop" < 250000 THEN 5\
+    WHEN "pop" >= 50000 AND "pop" < 100000 THEN 6\
+    ELSE 7\
+END\
+\
+5. \'93dist_km\'94 (w/ \'93shortest line between features\'94 tool)\
+6. convert m to km\
+\
+7. \'93thresholds\'94:\
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+\cf0 \
+\pard\pardeftab560\slleading20\partightenfactor0
+\cf0 CASE\
+    WHEN "rank" = 0 THEN 0\
+    WHEN "rank"  = 1 THEN 40\
+    WHEN "rank" = 2 THEN 30\
+    WHEN "rank" = 3 THEN 20\
+    WHEN "rank" = 4 THEN 15\
+    WHEN "rank" = 5 THEN 10\
+    WHEN "rank" = 6 THEN 8\
+    WHEN "rank" = 7 THEN 5\
+    ELSE 0\
+END\
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+\cf0 \
+\pard\pardeftab560\slleading20\partightenfactor0
+\cf0 8. \'93type\'94\
+\
+CASE\
+    WHEN "dist_km" < "threshold" \
+    THEN 'coast'\
+    ELSE 'inland'\
+END\
+\
+9. Run python script}
